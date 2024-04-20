@@ -1,3 +1,11 @@
+:root{
+    --color-main: rgb(184, 18, 18);
+}
+
+main{
+    min-height: 100vh;
+}
+
 h1 {
-    color: chocolate;
+    color: var(--color-main)
 }
